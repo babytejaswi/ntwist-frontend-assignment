@@ -40,3 +40,4 @@ git push -u origin main
 1. Clone this repository:
 ```bash
 https://github.com/babytejaswi/ntwist-frontend-assignment/tree/master
+Open index.html in your browser or use a local server (e.g. Live Server in VS Code).
