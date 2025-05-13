@@ -23,7 +23,7 @@ git init
 git add .
 
 ## Commit with a message
-git commit -m "Initial commit"
+git commit -m "ntwist-frontend-assignment"
 
 ## Rename the branch to main (if needed)
 git branch -m master
