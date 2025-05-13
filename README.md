@@ -19,4 +19,4 @@ This is a mini web application developed using HTML, CSS, and Vanilla JavaScript
 ## How to Run Locally
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ntwist-frontend-assignment.git
+https://github.com/babytejaswi/ntwist-frontend-assignment/tree/master
