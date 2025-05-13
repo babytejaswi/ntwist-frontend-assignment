@@ -15,23 +15,23 @@ This is a mini web application developed using HTML, CSS, and Vanilla JavaScript
 - Sidebar layout using Flexbox
 - Semantic HTML and clean CSS
 - CSS-only accordion
-#git commands
-# Initialize git (if not already)
+##git commands
+## Initialize git (if not already)
 git init
 
-# Add all files to staging area
+## Add all files to staging area
 git add .
 
-# Commit with a message
+## Commit with a message
 git commit -m "Initial commit"
 
-# Rename the branch to main (if needed)
-git branch -m main
+## Rename the branch to main (if needed)
+git branch -m master
 
-# Add remote origin
+## Add remote origin
 git remote add origin https://github.com/babytejaswi/ntwist-frontend-assignment.git
 
-# Push to GitHub
+## Push to GitHub
 git push -u origin main
 
   
