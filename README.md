@@ -15,7 +15,7 @@ This is a mini web application developed using HTML, CSS, and Vanilla JavaScript
 - Sidebar layout using Flexbox
 - Semantic HTML and clean CSS
 - CSS-only accordion
-##git commands
+## git commands
 ## Initialize git (if not already)
 git init
 
@@ -33,8 +33,9 @@ git remote add origin https://github.com/babytejaswi/ntwist-frontend-assignment.
 
 ## Push to GitHub
 git push -u origin main
+## This is the final output
+![image](https://github.com/user-attachments/assets/f66c099d-1b54-4f1a-9183-dd9e609f4e1a)
 
-  
 ## How to Run Locally
 1. Clone this repository:
 ```bash
